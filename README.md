@@ -5,5 +5,5 @@
 2019-03-29: [JoomlaDay Österreich 2019](https://www.joomla-day.at) | Niels https://jd19atgitworkshop.kicktemp.com/
 
 ## 2018
-2018-11-10: [JoomlaDay Deutschland 2018](https://www.joomladay.de) | Stefan https://privacy-policy-suite.kicktemp.com [youtube] https://www.youtube.com/watch?v=CiOKFdEXWw8   
+2018-11-10: [JoomlaDay Deutschland 2018](https://www.joomladay.de) | Stefan https://privacy-policy-suite.kicktemp.com [youtube](https://www.youtube.com/watch?v=CiOKFdEXWw8)  
 2018-11-09: [JoomlaDay Deutschland 2018](https://www.joomladay.de) | Niels https://vonnullauflive.kicktemp.com  
